@@ -80,7 +80,7 @@ Run the database migrations to create the necessary tables:
 
 ```bash
 
-php artisan key:generate
+php artisan migrate
 
 ```
 
